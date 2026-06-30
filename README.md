@@ -5,6 +5,6 @@ My version was a restaurant menu that has a few items, contact info and location
 I used Basic white and orange for the theme  
 
 ### Languages used 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=12" />
 </div>
